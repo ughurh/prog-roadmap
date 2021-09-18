@@ -1,6 +1,5 @@
 # A Roadmap and the Mostly Resources for Programmers  
 
-&nbsp;
 
 ### **Before Starting**
 - [How to Learn to Code](https://www.youtube.com/watch?v=mvK0UzFNw1Q)
@@ -95,7 +94,6 @@
 - [Stack Overflow](https://stackoverflow.com)
 
 ---
-&nbsp;
 
 #### [**Environment and Tools**](01_prog_tools.md)
 #### [**Programming Languages**](02_prog_langs.md)
