@@ -12,15 +12,20 @@
 
 ## Game Clones To Create
 - Guess the number game
+- Rock-Paper-Scissors
+- Hangman
 - Blackjack, Tic-tac-toe
 - Hunt the wumpus
 - Choose Your Own Adventure games, Zork clone
-- Pong, Tetris, Minesweeper clone
-- Horizontal/Vertical scrolling Space Shooter
+- Pong, Breakout, Arkanoid
+- Tetris, Snake
+- Minesweeper clone
+- Space Invaders, Asteroids, Lunar Lander, Space Shooter
 - Simple DOOM, Mario, Legend of Zelda clone
+- [49 Ideas for Game Clones to Code](https://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/)
 
 ## Game Engines, Frameworks, Libraries
 - ...
 
-## Resources
+## Game resources (assests)
 - ...
