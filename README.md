@@ -69,26 +69,26 @@
 - [Teach yourself CS](https://teachyourselfcs.com/)
 - [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
 
-### **Project Ideas & Practice Exercises**
-- ...
+### **Improving**
+- **Project Ideas & Practice Exercises**
+    - ...
 
-### **Good code and projects to study**
-- [Showcases section on Github](https://github.com/showcases)
-- [The Architecture of Open Source Programs](http://aosabook.org/en/index.html)
+- **Good code and projects to study**
+    - [Showcases section on Github](https://github.com/showcases)
+    - [The Architecture of Open Source Programs](http://aosabook.org/en/index.html)
 
-### **Contribute to open source projects**
-- ~~[OpenHatch](https://openhatch.org/)~~
-- ? [24PullRequests](https://24pullrequests.com/)
-- [CodeTriage](https://www.codetriage.com/)
-- [Up For Grabs](http://up-for-grabs.net/)
+- **Contribute to open source projects**
+    - ~~[OpenHatch](https://openhatch.org/)~~
+    - ? [24PullRequests](https://24pullrequests.com/)
+    - [CodeTriage](https://www.codetriage.com/)
+    - [Up For Grabs](http://up-for-grabs.net/)
 
 ### **Communities / Q&A**
-- [Reddit](https://reddit.com) - specific subreddits:
-    - learnprogramming / programming
-    - CSCareerQuestions / cscareerquestionsEU / forhire
-    - GetMotivated / GetDisciplined
-    - techsupport
-    - suggestalaptop / suggestapc
+- [Reddit](https://reddit.com) communities:
+    - learnprogramming
+    - programming
+    - CSCareerQuestions
+    - cscareerquestionsEU
     - programmerhumor
     - [Other Related communities](https://www.reddit.com/r/learnprogramming/wiki/index#wiki_related_communities)
 - [Stack Overflow](https://stackoverflow.com)
