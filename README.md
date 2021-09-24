@@ -63,12 +63,6 @@
 - [Recommended Reading for Developers](https://blog.codinghorror.com/recommended-reading-for-developers/)
 - [What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read)
 
-### **Topics covered by a typical computer science degree**
-- [What every computer science major should know - Matt Might](http://matt.might.net/articles/what-cs-majors-should-know/)
-- [Open source computer science degree - Open Source Society](https://github.com/open-source-society/computer-science)
-- [Teach yourself CS](https://teachyourselfcs.com/)
-- [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
-
 ### **Improving**
 - **Project Ideas & Practice Exercises**
     - ...
@@ -77,7 +71,14 @@
     - [Showcases section on Github](https://github.com/showcases)
     - [The Architecture of Open Source Programs](http://aosabook.org/en/index.html)
 
+- **Topics covered by a typical computer science degree**
+    - [What every computer science major should know - Matt Might](http://matt.might.net/articles/what-cs-majors-should-know/)
+    - [Open source computer science degree - Open Source Society](https://github.com/open-source-society/computer-science)
+    - [Teach yourself CS](https://teachyourselfcs.com/)
+    - [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
+
 - **Contribute to open source projects**
+    - [Github](https://github.com)
     - ~~[OpenHatch](https://openhatch.org/)~~
     - ? [24PullRequests](https://24pullrequests.com/)
     - [CodeTriage](https://www.codetriage.com/)
