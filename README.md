@@ -50,14 +50,14 @@
 - Some Indian guys with bad accent
 
 ### **Resources That Can Be helpful**
-- Any Official Resources
-- [Reddit](https://reddit.com) - specific subreddit sidebar / wiki / faq
+- Official resources, resources from authors or experts in the field
+- [Reddit](https://reddit.com) - specific subreddit sidebar/wiki/faq
 - [Hackr.io](https://hackr.io) - community driven, sorted by votes
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md)
 - [Online Courses & Interactive Materials ->](_res_online_interactive.md)
 - [OSSU Computer Science - a full long-term curriculum for CS starting from zero](https://github.com/open-source-society/computer-science)
-- YouTube
-- Google
+- [YouTube](https://youtube.com)
+- [Google](https://google.com)
 
 ### **Software Engineering**
 - [Recommended Reading for Developers](https://blog.codinghorror.com/recommended-reading-for-developers/)
@@ -69,6 +69,7 @@
 
 - **Good code and projects to study**
     - [Showcases section on Github](https://github.com/showcases)
+    - [Github repositories sorted by stars](https://github.com/search?o=desc&q=stars%3A%3E1&s=stars&type=Repositories)
     - [The Architecture of Open Source Programs](http://aosabook.org/en/index.html)
 
 - **Topics covered by a typical computer science degree**
