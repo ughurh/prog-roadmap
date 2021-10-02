@@ -4,6 +4,7 @@ Mobile App Development
         - [Android Developer Guides](https://developer.android.com/guide)
         - [Build your first app](https://developer.android.com/training/basics/firstapp)
         - [New! Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course) (CODELAB BASED)
+        - [Study guide: Associate Android Developer Certification](https://developers.google.com/certification/associate-android-developer/study-guide)
         - [Developing Android Apps with Kotlin course on Udacity](https://www.udacity.com/course/ud9012)
         - [Kotlin Bootcamp for Programmers](https://developer.android.com/courses/kotlin-bootcamp/overview) (CODELAB BASED)
         - [Android Developer Fundamentals](https://developer.android.com/courses/fundamentals-training/overview-v2) (CODELAB BASED)
