@@ -1,4 +1,10 @@
+---
+title: Online Courses
+permalink: online-courses/
+---
+
 Online Courses
+
 - [Coursera](https://www.coursera.org/)
 - [Udacity](https://www.udacity.com/)
 - [edX](https://www.edx.org/) - Free Online Courses by Harvard, MIT, & more
@@ -10,12 +16,13 @@ Online Courses
 - [Udemy](https://www.udemy.com/)
 - [Treehouse](https://teamtreehouse.com/)
 - [LinkedIn Learning](https://www.linkedin.com/learning/) (formerly Lynda)
-- [Pluralsight](https://www.pluralsight.com)   
+- [Pluralsight](https://www.pluralsight.com)
 - [Frontendmasters](https://frontendmasters.com/)
 - [Tutsplus](https://tutsplus.com/)
 - [Sitepoint's Premium Library](https://www.sitepoint.com/premium/library)
 
 Interactive Tutorials
+
 - [FreeCodeCamp's curriculum](https://www.freecodecamp.org/learn)
 - [Codecademy](https://www.codecademy.com/)
 - [Interactive Tutorials repo on Github](https://github.com/ronreiter/interactive-tutorials)

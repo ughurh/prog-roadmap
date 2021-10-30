@@ -1,3 +1,8 @@
+---
+title: Programming Basics
+permalink: programming-basics/
+---
+
 # Programming Basics
 
 ### **Before Starting**
