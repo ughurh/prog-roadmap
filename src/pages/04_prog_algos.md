@@ -3,6 +3,8 @@ title: Algorithms and Data Structures
 permalink: algorithms-and-data-structures/
 ---
 
+# Algorithms and Data Structures
+
 - Online courses:
 
   - Udacity's [Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)

@@ -3,6 +3,8 @@ title: Programming Tools
 permalink: programming-tools/
 ---
 
+# Programming Tools
+
 Meta
 
 - [Programming Tools page at /r/learnprogramming](http://www.reddit.com/r/learnprogramming/wiki/tools)

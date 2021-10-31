@@ -3,7 +3,7 @@ title: Online Courses
 permalink: online-courses/
 ---
 
-Online Courses
+# Online Courses
 
 - [Coursera](https://www.coursera.org/)
 - [Udacity](https://www.udacity.com/)
@@ -21,7 +21,7 @@ Online Courses
 - [Tutsplus](https://tutsplus.com/)
 - [Sitepoint's Premium Library](https://www.sitepoint.com/premium/library)
 
-Interactive Tutorials
+## Interactive Tutorials
 
 - [FreeCodeCamp's curriculum](https://www.freecodecamp.org/learn)
 - [Codecademy](https://www.codecademy.com/)

@@ -3,9 +3,9 @@ title: Programming Languages
 permalink: programming-languages/
 ---
 
-## Programming Languages
+# Programming Languages
 
-# C
+## C
 
 - The Authoritative Reference on C
   - [The C Programming Language (K&R)][c-c-lang]

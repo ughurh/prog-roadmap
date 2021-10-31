@@ -1,38 +1,38 @@
 [
   {
     "text": "Programming Basics",
-    "link": "programming-basics"
+    "link": "/programming-basics"
   },
   {
     "text": "Programming Tools",
-    "link": "programming-tools"
+    "link": "/programming-tools"
   },
   {
     "text": "Programming Languages",
-    "link": "programming-languages"
+    "link": "/programming-languages"
   },
   {
     "text": "Algorithms and Data Structures",
-    "link": "algorithms-and-data-structures"
+    "link": "/algorithms-and-data-structures"
   },
   {
     "text": "Software Engineering",
-    "link": "software-engineering"
+    "link": "/software-engineering"
   },
   {
     "text": "Dev Any",
-    "link": "dev-any"
+    "link": "/dev-any"
   },
   {
     "text": "Web Devlopment",
-    "link": "web-development"
+    "link": "/web-development"
   },
   {
     "text": "Mobile Application Development",
-    "link": "mobile-application-development"
+    "link": "/mobile-application-development"
   },
   {
     "text": "Game Development",
-    "link": "game-development"
+    "link": "/game-development"
   }
 ]

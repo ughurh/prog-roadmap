@@ -54,7 +54,7 @@ permalink: programming-basics/
 - goalkicker.com (good but not for beginners)
 - learncpp.com and cplusplus.com
 - w3schools.com (See w3fools.com)
-- Some Indian guys with bad accent
+- Some YouTube guys with bad accent
 
 ### **Resources That Can Be helpful**
 
@@ -62,7 +62,7 @@ permalink: programming-basics/
 - [Reddit](https://reddit.com) - specific subreddit sidebar/wiki/faq
 - [Hackr.io](https://hackr.io) - community driven, sorted by votes
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md)
-- [Online Courses & Interactive Materials ->](_res_online_interactive.md)
+- [Online Courses & Interactive Materials ->]({{"/online-courses" | url }})
 - [OSSU Computer Science - a full long-term curriculum for CS starting from zero](https://github.com/open-source-society/computer-science)
 - [YouTube](https://youtube.com)
 - [Google](https://google.com)
